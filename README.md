@@ -1,4 +1,4 @@
-# PyTorch Examples
+# PyTorch Examples 首次使用这个库是因为在ImageNet上面做预训练
 ![Run Examples](https://github.com/pytorch/examples/workflows/Run%20Examples/badge.svg)
 
 WARNING: if you fork this repo, github actions will run daily on it. To disable
